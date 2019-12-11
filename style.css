@@ -2,6 +2,20 @@
     padding: 5px;
    
 }
-.jumbotron .top-jumbo{
-    padding: 0;
+body{
+    background-image: url("background.jpeg");
+    text-shadow: 2px 2px 5px rgb(49, 49, 49);
+    
+   
 }
+.rows{
+    box-shadow: 5px 5px 5px rgb(145, 144, 144)
+    
+}
+button{
+    box-shadow: 5px 5px 5px rgb(145, 144, 144)
+}
+input[type=text] {
+    background-color: rgb(173, 173, 173);
+    color: white;
+  }
